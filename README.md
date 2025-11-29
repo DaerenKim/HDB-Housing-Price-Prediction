@@ -39,6 +39,8 @@ This project provides a complete pipeline for predicting HDB resale prices in Si
 ### Dashboard Visualisations
 
 ![Dashboard Visualisation](images/Dashboard1.png)
+
+
 ![Dashboard Visualisation](images/Dashboard2.png)
 
 ### Price Prediction Interface
